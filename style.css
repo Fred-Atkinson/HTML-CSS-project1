@@ -1,0 +1,179 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+#navBar{
+height: 90px;
+background-color: rgb(255, 255, 255);
+}
+
+.nav{
+    text-align: right;
+    position: relative;
+    bottom: 30px;
+    right: 20px;
+}
+
+#txt{
+    text-decoration: none;
+    color:black;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    height: 800px;
+    
+    background: #5a5a5a url(Background.webp)  top center repeat;
+    background-size: cover;
+}
+
+.logo{
+font-size: 30px;
+padding: 20px 0px 0px 20px;
+font-family: 'Merriweather Sans', Arial, sans-serif ;
+}
+
+.red{
+   color: rgb(199, 31, 31);
+}
+
+.green{
+color: rgb(124, 185, 31);
+}
+
+.info{
+    width: 380px;
+    height: 200px;
+    padding-left: 75px;
+    padding-top: 100px;
+    font-family: 'Prompt', Arial, Helvetica, sans-serif;
+}
+
+#health{
+    font-family: 'Merriweather Sans', Arial, sans-serif ;
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#info{
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.browse{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imgcontainer{
+    
+    width: 950px;
+    height: 525px;
+    position: relative;
+    left: 500px;
+    top: -210px;
+}
+
+.breakfast{
+  position:absolute;
+   
+}
+.b1{
+    width: 325px;
+    height: 525px;
+    object-fit: cover;
+}
+
+#fresh2{
+    position: relative;
+    bottom: 140px;
+    left: 180px;
+    font-size: 20px;
+    background-color: rgb(112, 189, 102);
+    padding: 10px;
+    width: 125px;
+}
+
+#fresh{
+    position: relative;
+    bottom: 115px;
+    left: 220px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 15px;
+    width: 75px;
+}
+
+
+
+.lunch{
+position:absolute;
+}
+
+.b2{
+    width: 300px;
+    height: 525px;
+    object-fit: cover;
+    position: relative;
+    bottom: 0px;
+    left: 350px;
+}
+
+#fresh4{
+    position: relative;
+    bottom: 140px;
+    left: 515px;
+    font-size: 20px;
+    background-color: rgb(112, 189, 102);
+    padding: 10px 10px 10px 50px;
+    width: 75px;
+}
+
+#fresh3{
+    position: relative;
+    bottom: 115px;
+    left: 545px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 15px;
+    width: 75px;
+}
+.dinner{
+    position:absolute;
+}
+
+.b3{
+    width: 300px;
+    height: 525px;
+    object-fit: cover;
+    position: relative;
+    bottom: 0px;
+    left: 675px;   
+}
+
+#fresh6{
+    position: relative;
+    bottom: 140px;
+    left: 820px;
+    font-size: 20px;
+    background-color: rgb(112, 189, 102);
+    padding: 10px 10px 10px 70px;
+    width: 75px;
+}
+
+#fresh5{
+    position: relative;
+    bottom: 115px;
+    left: 845px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 15px;
+    width: 100px;
+}
